@@ -1,0 +1,5 @@
+Hello students
+
+This is our 1st session on Git...
+
+and i hope you people are loving it..
